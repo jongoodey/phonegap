@@ -7,7 +7,7 @@
         version   = "1.0.0">
 
     <name>Jon's TODO app</name>
-    <icon src="todo.png" />
+    <icon src="/todo.png" />
 
     <description>
         Hi there this is my todo app :) .
